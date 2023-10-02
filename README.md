@@ -1,5 +1,10 @@
 # Manitoba Hydro Hydrological Data Analysis for Cedar Lake near Oleson Point (MB Hydro)
 
+## Hydrological Data
+- From 2022 Sep 22nd to 2023 Sep 28th
+- Dataset Source
+  - [Manitoba Hyro Hydrological Data](https://www.hydro.mb.ca/hydrologicalData/static/stations/05KL701/station.html?v=20230928053337)
+
 ## Introduction
 In this stage, we will conduct a preliminary analysis and forecast using the hydrological data from Cedar Lake near Oleson Point station, which has been provided by Manitoba Hydro.
 
@@ -45,6 +50,3 @@ In this stage, we will conduct a preliminary analysis and forecast using the hyd
 
 ![arima_atmospheric_pressure_forecast](./images/arima_atmospheric_pressure_forecast.png)
 ---
-
-## Dataset Source
-- [Manitoba Hyro](https://www.hydro.mb.ca/hydrologicalData/static/stations/05KL701/station.html?v=20230928053337)
